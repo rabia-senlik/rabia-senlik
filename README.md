@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rabia Senlik.
 - 🤖 I’m passionate about Build ML Pipelines and Computer Vision Applications.
-- 🌱 Having 3+ years of experience in AI/ML and big data, including 4+ year of hands-on work in the AI sector, contributing to various real-world projects.
+- 🌱 Having 4+ years of experience in AI/ML and big data, including 3+ year of hands-on work in the AI sector, contributing to various real-world projects.
 - 🧠 Skilled in Python libraries such as TensorFlow, Scikit-Learn, PyTorch, and OpenCV, with strong proficiency in data manipulation using Pandas and NumPy.
 - 🔍 I thrive on analytical thinking, continuous learning, and adapting quickly to new technologies.
 - 🤝 I enjoy working both independently and in collaborative environments, with strengths in problem-solving, multitasking, and time management.
